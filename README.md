@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martinwangata
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Angular JS
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Programming projects
 - 📫 How to reach me email martinwangata@gmail.com
 
